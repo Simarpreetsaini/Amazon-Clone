@@ -6,7 +6,7 @@ JAVASCRIPT<br>
 Author :
 Simarpreet Singh
 Email: harkiratsaini47@gmail.com<br>
-My Github profile -:
+My Github profile -:https://github.com/Simarpreetsaini
 
 Website Link :
 url : 
