@@ -9,7 +9,7 @@ Email: harkiratsaini47@gmail.com<br>
 My Github profile -:https://github.com/Simarpreetsaini
 
 Website Link :https://simarpreetsaini.github.io/Amazon-Clone<br>
-url : https://simarpreetsaini.github.io/Amazon-Clone
+
 
 Ex- Image
 Home Page
