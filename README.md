@@ -8,7 +8,7 @@ Simarpreet Singh
 Email: harkiratsaini47@gmail.com<br>
 My Github profile -:https://github.com/Simarpreetsaini
 
-Website Link :
+Website Link :https://simarpreetsaini.github.io/Amazon-Clone
 url : 
 
 Ex- Image
