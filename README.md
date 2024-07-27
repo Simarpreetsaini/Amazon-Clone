@@ -1,8 +1,8 @@
 A clone of the Amazon website for practicing web development skills.
 Technologies used :
-HTML
-CSS
-JAVASCRIPT
+HTML<br>
+CSS<br>
+JAVASCRIPT<br>
 Author :
 Simarpreet Singh
 Email: harkiratsaini47@gmail.com
